@@ -1,6 +1,6 @@
 {
   "nicks": {
-    { "Loki_Serafini": { "Issued a mut and did not remove it to the author of the script." } },
-    { "Alexey_Skymorer": { "Lox." } }
+    "Loki_Serafini": [ { "Issued a mut and did not remove it to the author of the script." } ],
+    "Alexey_Skymorer": [ { "Lox." } ]
   }
 }
