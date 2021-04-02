@@ -1,5 +1,5 @@
 {
   "nicks": {
-    "Loki_Serafini"
+    "Loki_Serafini": { "Issued a mut and did not remove it to the author of the script." }
   }
 }
