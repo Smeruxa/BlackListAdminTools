@@ -1,5 +1,3 @@
 {
-  "Loki_Serafini": "Naxui poshel | by tot kogo ti mutnul i potom ne snimal mute yebok.",
-  "Oscar_Toledo": "Axuel",
-  "Johny_Nissan": "Not love me"
+  
 }
