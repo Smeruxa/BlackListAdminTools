@@ -1,3 +1,4 @@
 {
-  "Svyatoy_Otets": "You weren taught respect?"
+  "Svyatoy_Otets": "You weren taught respect?",
+  "Fernando_Namikazze": "Impostor."
 }
