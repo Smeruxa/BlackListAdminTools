@@ -1,4 +1,5 @@
 {
   "Mainardo_Gargano": "Did not deserved",
-  "Reloaded_Namikazze": "Aurora_Alferova"
+  "Reloaded_Namikazze": "Aurora_Alferova",
+  "Estella_Franz": "Сказано было так Арианой"
 }
